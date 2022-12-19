@@ -7,6 +7,16 @@
 <h3 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <h1 align="center">I'm Pranay Jadhao</h1>
 <h3 align="center" >An Enthusiast, Code Lover and Life-Long Learner</h3>
+  <h3 align="center">A passionate Full Stack Web Developer</h3>
+I like solving puzzles and exploring new Places. Having conversation with computers is my Passion
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on *MySkill😄*
+- 🌱 I’m currently learning at *Masai School*
+- 💬 Ask me about  React, Redux, JavaScript etc.
+- 👨‍💻 This is [My Portfolio](https://PranayJadhao.github.io/)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1YM226Fgqz5KorDpLFbBG7X5HXJuaMRne/view?usp=sharing)
+
 
 
 <div align="center">
