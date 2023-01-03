@@ -16,7 +16,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 - 💬 Ask me about  React, Redux, JavaScript etc.
 - 👨‍💻 This is [My Portfolio](https://PranayJadhao.github.io/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1YM226Fgqz5KorDpLFbBG7X5HXJuaMRne/view?usp=sharing)
-
+-  📄 This is [My LinkedIn ](https://www.linkedin.com/in/pranay-jadhao-b322b7259/)
 
 
 <div align="center">
